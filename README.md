@@ -22,6 +22,6 @@ Fascinated by all the possibilities that programming provides us
 
 ## Talk to me 😉
 -[Gmail]issaccabrall@alu.ufc.br<br>
--[Phone](+55 88 9838-5580)<br> 
+-[Phone](+55 88 99838-5580)<br> 
 
 
