@@ -25,5 +25,5 @@
 <div>
   <a href="https://github.com/IssacCabral">
   
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssacCabral&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssacCabral&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
