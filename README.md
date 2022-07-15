@@ -2,6 +2,13 @@
   <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />  
   <h2>  Hello Everyone! I'm Issac Cabral 👋 <h2>
 
+  <h4>About me:</h4>
+  <ul>
+    <li>🏫 UFC Quixadá | Information Systems Student</li>
+    <li>💰 Software development intern at Luby software</li>
+  </ul>
+  
+
 <h3><strong>Find me Here</strong><h3>
   <a href="https://www.instagram.com/issac.cabral/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:clidenorissac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
