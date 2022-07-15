@@ -1,7 +1,6 @@
 <div>
   <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />  
   <h2>  Hello Everyone! I'm Issac Cabral 👋 <h2>
-
   <h4>About me:</h4>
   <ul>
     <li>🏫 UFC Quixadá | Information Systems Student</li>
