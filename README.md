@@ -4,7 +4,7 @@
   <h4>About me:</h4>
   <ul>
     <li>🏫 UFC Quixadá | Information Systems Student</li>
-    <li>💰 Software development intern at Luby software</li>
+    <li>💰 Software developer at Luby software</li>
   </ul>
   
 
