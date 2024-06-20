@@ -9,7 +9,7 @@
 
 ##### Currently focused on systems design and building large scale applications
 ##### 🌱 I’m currently learning: 
-- Go lang
+- Go lang as a secondary language
 - GRPc 
 - Data Structure.
 
