@@ -4,7 +4,7 @@
  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF73D&random=false&width=435&lines=Software+Engineer" alt="Typing SVG" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issaccabral&label=Profile%20views&color=0e75b6&style=flat" alt="issaccabral" /> </p>  
-<h3> Software Engineer at Luby Software, BRAZIL 🇧🇷 </h3>
+<h3> Software Engineer at Auth Fintech, BRAZIL 🇧🇷 </h3>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="right" width="250">
 
 ##### Currently focused on systems design and building large scale applications
